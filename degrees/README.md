@@ -16,7 +16,7 @@ Name: Jennifer Lawrence
 
 ## Video
 
-[![Project 0a: Degrees Video](https://i.ytimg.com/vi/ktUfVJdzLS8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDvdWnJb-yGvBWLhUoJ6JxRNgI2Cg)](https://www.youtube.com/watch?v=ktUfVJdzLS8)
+[![Project 0a: Degrees Video]https://i.ytimg.com/vi/MstmCNWcImk/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCdPW_bmgzRww9qsAcxzZ7H_UxOHg)](https://www.youtube.com/watch?v=MstmCNWcImk)
 
 ## Background
 

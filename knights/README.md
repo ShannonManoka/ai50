@@ -4,7 +4,7 @@ Write a program to solve logic puzzles.
 
 ## Video
 
-[![Project 1a: Knights Video](https://i.ytimg.com/vi/sslDTaHzvd0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCr6htSPWtyUM0xSX3c06hAQcEicQ)](https://www.youtube.com/watch?v=sslDTaHzvd0)
+[![Project 1a: Knights Video]https://i.ytimg.com/vi/FUPfsPIn5cI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCdUyCRH2xyuut6UIK4j6nsbO5omA)](https://www.youtube.com/watch?v=FUPfsPIn5cI)
 
 ## Background
 

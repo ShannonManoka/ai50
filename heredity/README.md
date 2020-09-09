@@ -32,7 +32,7 @@ Lily:
 
 ## Video
 
-[![Project 2b: Heredity Video](https://i.ytimg.com/vi/u5WwkM6a9WU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB1rDkWemZnHI2DD1MwH5-1bvNnjw)](https://www.youtube.com/watch?v=u5WwkM6a9WU)
+[![Project 2b: Heredity Video]https://i.ytimg.com/vi/l3Dlc08rV0U/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDUjPpApKP8wgOCJWc_DdznTeVDYg)](https://www.youtube.com/watch?v=l3Dlc08rV0U)
 
 ## Specification
 
