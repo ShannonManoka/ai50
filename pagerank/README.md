@@ -4,7 +4,7 @@ Write an AI to rank web pages by importance.
 
 ## Video
 
-[![Project 2a: PageRank Video](http://img.youtube.com/vi/sJg6awKEVvI/0.jpg)](https://youtu.be/sJg6awKEVvI)
+[![Project 2a: PageRank Video](https://i.ytimg.com/vi/u5WwkM6a9WU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB1rDkWemZnHI2DD1MwH5-1bvNnjw)](https://www.youtube.com/watch?v=u5WwkM6a9WU)
 
 ## Specification
 
