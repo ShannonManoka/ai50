@@ -4,7 +4,7 @@ Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
 
 ## Video
 
-[![Project 0b: Tic-Tac-Toe Video]https://i.ytimg.com/vi/6PFit1_ba5k/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDIicBydomjFQ-0Y8Mdfa_JHM_c7w)](https://www.youtube.com/watch?v=6PFit1_ba5k)
+[![Project 0b: Tic-Tac-Toe Video](https://i.ytimg.com/vi/6PFit1_ba5k/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDIicBydomjFQ-0Y8Mdfa_JHM_c7w)](https://www.youtube.com/watch?v=6PFit1_ba5k)
 
 ## Specification
 
